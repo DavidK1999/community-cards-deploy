@@ -1,0 +1,37 @@
+{
+  "name": "community-cards-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidK1999/community-cards-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidK1999/community-cards-deploy/issues"
+  },
+  "homepage": "https://github.com/DavidK1999/community-cards-deploy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongoose": "^5.9.3",
+    "node-gyp": "^6.1.0",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.0",
+    "react-string-replace": "^0.4.4",
+    "redux": "^4.0.5",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2"
+  }
+}
